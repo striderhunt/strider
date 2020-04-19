@@ -1,0 +1,2 @@
+# strider
+Just like that
